@@ -5,7 +5,8 @@
 
 ## Email:
  Jerry Benton - 10 November 2016
- <mailto:mailscanner@mailborder.com>
+ 
+ <mailscanner@mailborder.com>
 
 ## About MailScanner
 MailScanner is an open source email gateway that processes email for
@@ -17,9 +18,13 @@ SUSE in addition to any generic NIX package.
 
 
 Info: 		http://www.mailscanner.info
+
 Release: 	https://www.mailscanner.info/downloads
+
 Github: 	https://github.com/MailScanner/v5
+
 Manual: 	https://s3.amazonaws.com/msv5/docs/ms-admin-guide.pdf
+
 Support: 	http://lists.mailscanner.info/mailman/listinfo/mailscanner
 
 ## Installation:
