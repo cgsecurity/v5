@@ -5,7 +5,7 @@
 
 ## Email:
  Jerry Benton - 10 November 2016
- <mailscanner@mailborder.com>
+ <mailto:mailscanner@mailborder.com>
 
 ## About MailScanner
 MailScanner is an open source email gateway that processes email for
