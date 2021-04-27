@@ -1,13 +1,13 @@
-##Welcome to MailScanner!
+## Welcome to MailScanner!
 
- ##Version
+ ## Version
  Current version: 5.0.4-4 release
 
-##Email:
+## Email:
  Jerry Benton - 10 November 2016
  <mailscanner@mailborder.com>
 
-##About MailScanner
+## About MailScanner
 MailScanner is an open source email gateway that processes email for
 spam, viruses, phishing, and other malicious content. MailScanner 
 leverages other open source software such as ClamAV and 
@@ -22,22 +22,22 @@ Github: 	https://github.com/MailScanner/v5
 Manual: 	https://s3.amazonaws.com/msv5/docs/ms-admin-guide.pdf
 Support: 	http://lists.mailscanner.info/mailman/listinfo/mailscanner
 
-##Installation:
+## Installation:
 <pre>		tar -xvzf MailScanner-5.x.x-x.distro.tar.gz
 		cd MailScanner-5.x.x-x
 		./install.sh </pre>
 
-##MTA Guides:
+## MTA Guides:
 		[sendmail](https://www.mailscanner.info/sendmail)
 		[postfix](https://www.mailscanner.info/postfix)
 		[exim](https://www.mailscanner.info/exim)
 
-##Setup:
+## Setup:
  	 Edit /etc/MailScanner/defaults and set options
 	 Edit /etc/MailScanner/MailScanner.conf and set options
 	 service mailscanner start
 
-##NIX:
+## NIX:
 		For generic NIX systems, create a symlink for controlling the 
 		start/stop/restart of the program to:
 
@@ -45,7 +45,7 @@ Support: 	http://lists.mailscanner.info/mailman/listinfo/mailscanner
 
 		* This is not required for RHEL, CentOS, Debian, Ubuntu, SUSE	
 
-##File Locations:
+## File Locations:
 	/etc/MailScanner
   	/usr/share/MailScanner
  	 /usr/lib/MailScanner
